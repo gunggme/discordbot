@@ -1,0 +1,216 @@
+{
+	"Mon": {
+		"1": {
+			"name": "국어",
+			"teacher": "조태현 선생님",
+			"how": "네이버 웨일",
+			"url": "https://whaleon.us/on/5000023332?p=78731ad4f2934897851f6513595158f5c4e3"
+		},
+		"2": {
+			"name": "프로그래밍",
+			"teacher": "강미정 선생님",
+			"how": "네이버 웨일",
+			"url": "https://classroom.google.com/c/MjkxMzEyMzI5Mzcx"
+		},
+		"3": {
+			"name": "사회",
+			"teacher": "심경아 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/pcs-so103"
+		},
+		"4": {
+			"name": "물리(통합과학)",
+			"teacher": "황소영 선생님",
+			"how": "네이버 웨일",
+			"url": "http://class.whalespace.io/pcs-che-103"
+		},
+		"5": {
+			"name": "체육",
+			"teacher": "남한나 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/pcspe13/classHome/"
+		},
+		"6": {
+			"name": "영어",
+			"teacher": "박형락 선생님",
+			"how": "네이버 웨일",
+			"url": "http://class.whalespace.io/politicalunc"
+		},
+		"7": {
+			"name": "정보",
+			"teacher": "안용진 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/22pcs-info-1-31NjU2MTY2MDU3?cjc=rvnyzwv"
+		}
+	},
+	"Tue": {
+		"1": {
+			"name": "미술",
+			"teacher": "김상열 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/pcs-art-103"
+		},
+		"2": {
+			"name": "미술",
+			"teacher": "김상열 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/pcs-art-103"
+		},
+		"3": {
+			"name": "체육",
+			"teacher": "남한나 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/pcspe13/classHome/"
+		},
+		"4": {
+			"name": "음악",
+			"teacher": "천은이 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/pcs-mu-103"
+		},
+		"5": {
+			"name": "국어",
+			"teacher": "조태현 선생님",
+			"how": "네이버 웨일",
+			"url": "https://whaleon.us/on/5000023332?p=78731ad4f2934897851f6513595158f5c4e3"
+		},
+		"6": {
+			"name": "수학",
+			"teacher": "김경아 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/2022kmath1-3"
+		},
+		"7": {
+			"name": "정보처리",
+			"teacher": "정순식 선생님",
+			"how": "네이버 웨일",
+			"url": "http://class.whalespace.io/info-mana-103"
+		}
+	},
+	"Wed": {
+		"1": {
+			"name": "프로그래밍",
+			"teacher": "강미정 선생님",
+			"how": "네이버 웨일",
+			"url": "https://classroom.google.com/c/MjkxMzEyMzI5Mzcx"
+		},
+		"2": {
+			"name": "생물(통합과학)",
+			"teacher": "양은정 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/pcs-bio-103"
+		},
+		"3": {
+			"name": "영어",
+			"teacher": "박형락 선생님",
+			"how": "네이버 웨일",
+			"url": "http://class.whalespace.io/politicalunc"
+		},
+		"4": {
+			"name": "사회",
+			"teacher": "심경아 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/pcs-so103"
+		},
+		"5": {
+			"name": "창체",
+			"teacher": "? 선생님",
+			"how": "네이버 웨일",
+			"url": "Zoom, Google Meet 링크"
+		},
+		"6": {
+			"name": "창체",
+			"teacher": "? 선생님",
+			"how": "네이버 웨일",
+			"url": "Zoom, Google Meet 링크"
+		}
+	},
+	"Thu": {
+		"1": {
+			"name": "진로와 직업",
+			"teacher": "천은이 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/pcs-dream-103"
+		},
+		"2": {
+			"name": "회로",
+			"teacher": "임병준 선생님",
+			"how": "네이버 웨일",
+			"url": "https://classroom.google.com/c/MzE0NjY4MTkzMTY5"
+		},
+		"3": {
+			"name": "정보처리",
+			"teacher": "정순식 선생님",
+			"how": "네이버 웨일",
+			"url": "http://class.whalespace.io/info-mana-103"
+		},
+		"4": {
+			"name": "사회",
+			"teacher": "심경아 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/pcs-so103"
+		},
+		"5": {
+			"name": "국어",
+			"teacher": "조태현 선생님",
+			"how": "네이버 웨일",
+			"url": "https://whaleon.us/on/5000023332?p=78731ad4f2934897851f6513595158f5c4e3"
+		},
+		"6": {
+			"name": "수학",
+			"teacher": "김경아 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/2022kmath1-3"
+		},
+		"7": {
+			"name": "정보",
+			"teacher": "안용진 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/22pcs-info-1-31NjU2MTY2MDU3?cjc=rvnyzwv"
+		}
+	},
+	"Fri": {
+		"1": {
+			"name": "화학(통합과학)",
+			"teacher": "왕소영 선생님",
+			"how": "네이버 웨일",
+			"url": "http://class.whalespace.io/pcs-che-103"
+		},
+		"2": {
+			"name": "프로그래밍",
+			"teacher": "강미정 선생님",
+			"how": "네이버 웨일",
+			"url": "https://classroom.google.com/c/MjkxMzEyMzI5Mzcx"
+		},
+		"3": {
+			"name": "회로",
+			"teacher": "임병준 선생님",
+			"how": "네이버 웨일",
+			"url": "Zoom, Google Meet 링크"
+		},
+		"4": {
+			"name": "수학",
+			"teacher": "김경아 선생님",
+			"how": "네이버 웨일",
+			"url": "https://class.whalespace.io/2022kmath1-3"
+		},
+		"5": {
+			"name": "영어",
+			"teacher": "박형락 선생님",
+			"how": "네이버 웨일",
+			"url": "http://class.whalespace.io/politicalunc"
+		},
+		"6": {
+			"name": "계열",
+			"teacher": "? 선생님",
+			"how": "네이버 웨일",
+			"url": "Zoom, Google Meet 링크"
+		},
+    "7": {
+			"name": "계열",
+			"teacher": "? 선생님",
+			"how": "네이버 웨일",
+			"url": "Zoom, Google Meet 링크"
+		}
+	}
+}
