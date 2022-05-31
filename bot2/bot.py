@@ -171,5 +171,5 @@ async def time_print(ctx):
 
 
 
-bot.run("OTUwNjQyOTIzMTIzNDA4OTI2.Yib5Ng.Xt7_6cmHGLQPmAxjyPYeJuh4i2M")
+bot.run("")
 # -*- coding: utf-8 -*-
